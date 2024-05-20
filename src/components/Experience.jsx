@@ -8,7 +8,7 @@ const Experience = () => {
     {/* Contenido de la primera experiencia laboral */}
     <div className="bg-white shadow-lg rounded-lg p-6 m-4 relative">
       <div className="overflow-hidden rounded-t-lg">
-        <img src="https://www.o10media.es/blog/wp-content/uploads/2023/01/tipos-paginas-web.jpg" alt="Imagen de perfil" className="w-full h-auto object-cover"/>
+        <img src="/image/Softion.png" alt="Imagen de perfil" className="w-full h-auto object-cover"/>
       </div>
       <h3 className="text-xl font-semibold mt-4 mb-2">
         Desarrollador Front-End
