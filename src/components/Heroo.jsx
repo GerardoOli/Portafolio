@@ -7,10 +7,10 @@ const Heroo = () => {
         <div className="relative">
           <img src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG.png" className="w-[250px] h-[250px] md:w-[450px] md:h-[420px] object-cover xl:-mt-28 rounded-full" id="perfil" alt="Perfil" />
           {/* Logos */}
-          <img src={"./public/image/css.png"} className="w-10 h-10 sm:w-14 sm:h-14 md:w-20 md:h-20 object-cover rounded-full absolute top-0 right-0 sm:right-0 md:right-0 xl:right-[-50px] 2xl:right-[-100px] bg-red-900" alt="CSS Logo" />
-          <img src={"./public/image/html.png"} className="w-10 h-10 sm:w-14 sm:h-14 md:w-20 md:h-20 object-cover rounded-full absolute top-0 left-0 sm:left-0 md:left-0 xl:left-[-50px] 2xl:left-[-100px]" alt="HTML Logo" />
-          <img src={"./public/image/Js.png"} className="w-10 h-10 sm:w-14 sm:h-14 md:w-20 md:h-20 object-cover rounded-full absolute bottom-0 left-0 sm:left-0 md:left-0 xl:left-[-50px] 2xl:left-[-100px] -rotate-12" alt="Tailwind CSS Logo" />
-          <img src={"./public/image/TailwinCss.png"} className="w-10 h-10 sm:w-14 sm:h-14 md:w-20 md:h-20 object-cover rounded-full absolute bottom-0 right-0 sm:right-0 md:right-0 xl:right-[-50px] 2xl:right-[-100px] -rotate-12" alt="React Logo" />
+          <img src={"/image/css.png"} className="w-10 h-10 sm:w-14 sm:h-14 md:w-20 md:h-20 object-cover rounded-full absolute top-0 right-0 sm:right-0 md:right-0 xl:right-[-50px] 2xl:right-[-100px] bg-red-900" alt="CSS Logo" />
+          <img src={"/image/html.png"} className="w-10 h-10 sm:w-14 sm:h-14 md:w-20 md:h-20 object-cover rounded-full absolute top-0 left-0 sm:left-0 md:left-0 xl:left-[-50px] 2xl:left-[-100px]" alt="HTML Logo" />
+          <img src={"/image/Js.png"} className="w-10 h-10 sm:w-14 sm:h-14 md:w-20 md:h-20 object-cover rounded-full absolute bottom-0 left-0 sm:left-0 md:left-0 xl:left-[-50px] 2xl:left-[-100px] -rotate-12" alt="Tailwind CSS Logo" />
+          <img src={"/image/TailwinCss.png"} className="w-10 h-10 sm:w-14 sm:h-14 md:w-20 md:h-20 object-cover rounded-full absolute bottom-0 right-0 sm:right-0 md:right-0 xl:right-[-50px] 2xl:right-[-100px] -rotate-12" alt="React Logo" />
         </div>
 
 
